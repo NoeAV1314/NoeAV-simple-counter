@@ -1,12 +1,48 @@
-
-/* 
-
-    You can write your own styles here...
+.bigCounter {
+    display: flex;
+    justify-content: center;
     
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+}
 
-*/
+.calendar{
+    display: inline-block;
+    font-size: 25px;
+    line-height: 20px;
+    height: 40px;
+    background-color: black;
+    color: whitesmoke;
+    padding: 4px 15px;
+}
+.squareOne {
+    font-size: 25px;
+    line-height: 20px;
+    height: 40px;
+    background-color: black;
+    color: whitesmoke;
+    padding: 4px 15px;
+
+}
+.squareTwo {
+    font-size: 25px;
+    line-height: 20px;
+    height: 40px;
+    background-color: black;
+    color: whitesmoke;
+    padding: 4px 15px;
+}
+.squareThree {
+    font-size: 25px;
+    line-height: 20px;
+    height: 40px;
+    background-color: black;
+    color: whitesmoke;
+    padding: 4px 15px;
+}
+.squareFour {
+    font-size: 25px;
+    line-height: 20px;
+    height: 40px;
+    background-color: black;
+    color: whitesmoke;
+    padding: 4px 15px;
+}
